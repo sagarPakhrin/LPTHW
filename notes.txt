@@ -1,0 +1,2 @@
+#imports argv module from system
+from sys import argv
